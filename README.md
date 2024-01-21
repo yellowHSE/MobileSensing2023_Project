@@ -3,7 +3,6 @@
 This application facilitates the detection of fruits in grocery shops and accurately associates them with their corresponding price tags. Our model has been trained on specific datasets for six different fruits, and the price tag images are extracted using Tesseract OCR. We anticipate that this technology will simplify the process of shopping for fruits, particularly in terms of easily determining the prices based on the distance principle.
 
 ## Demo Video
-![대체 텍스트](C:\Users\hse20\Desktop\Fruitty.png)
 
 Check out our demo video on [Youtube] https://youtu.be/PKuBG-0rIfo?si=25yIbuX_6tXy0XlH to see the application in action.
 You have to choose the high resolution
