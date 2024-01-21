@@ -1,3 +1,0 @@
-C:/Users/hse20/Downloads/opencv-4.8.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/RelWithDebInfo/1i14315f/x86/CMakeFiles/opencv_jni_shared.dir
-C:/Users/hse20/Downloads/opencv-4.8.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/RelWithDebInfo/1i14315f/x86/CMakeFiles/edit_cache.dir
-C:/Users/hse20/Downloads/opencv-4.8.0-android-sdk/OpenCV-android-sdk/sdk/.cxx/RelWithDebInfo/1i14315f/x86/CMakeFiles/rebuild_cache.dir

@@ -1,2 +1,0 @@
-ninja: Entering directory `C:\Users\hse20\Downloads\opencv-4.8.0-android-sdk\OpenCV-android-sdk\sdk\.cxx\Debug\3dp634b5\x86_64'
-ninja: no work to do.

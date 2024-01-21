@@ -1,1 +1,0 @@
-C:\Users\hse20\Downloads\opencv-4.8.0-android-sdk\OpenCV-android-sdk\sdk\build\intermediates\cxx\Debug\2b1fx2d1\obj\arm64-v8a
